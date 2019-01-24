@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/bgGrey">
+
+
+        <com.mapbox.mapboxsdk.maps.MapView
+            android:id="@+id/mapView"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            mapbox:layout_constraintBottom_toBottomOf="parent"
+            mapbox:layout_constraintEnd_toEndOf="parent"
+            mapbox:layout_constraintStart_toStartOf="parent"
+            mapbox:layout_constraintTop_toTopOf="parent"
+            mapbox:mapbox_cameraTargetLat="-8.062087"
+            mapbox:mapbox_cameraTargetLng="-34.872552"
+            mapbox:mapbox_cameraTilt="60"
+            mapbox:mapbox_cameraZoom="12"
+            mapbox:mapbox_styleUrl="@string/mapbox_style_dark" />
+
+            <Button
+                android:id="@+id/btnVerLista"
+                android:background="@color/colorPrimary"
+                android:textColor="@color/white"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:text="Assombrações encontradas"/>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,36 @@
+<resources>
+    <!-- GENERAL -->
+    <string name="app_name">mapa de misterios do recife</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="access_token">pk.eyJ1IjoiYWFyb25zYW50b3MiLCJhIjoiY2pwNnVqOXAwMTZ3MjNqcDdpdXU4amV4cyJ9.tasNt9KRaObplx-6Tkac_Q</string>
+    <string name="total_assombracoes">2</string>
+    <!-- Praça chora menino,Branca Dias,Velinha da Canxagá -->
+
+    <!-- ASSOMBRAÇÕES-->
+
+    <!-- Assombracao 1 -->
+    <string name="a_coord_1">-8.0603906,-34.8949563</string>
+    <string name="a_nome_1">Praça Chora Menino</string>
+    <string name="a_local_1">Bairro do Recife</string>
+    <string name="a_desc_1">
+        A Praça Chora Menino fica no bairro da Boa Vista, uma das áreas mais movimentadas  da capital pernambucana. Próxima ao Colégio Salesiano, à Praça do Derby e às ruas do Progresso e das Ninfas, é hoje uma simples confluência de vias, espaço atravessado às pressas  por gente desatenta, preocupada em chegar rápido ao seu destino. Poucos devem se perguntar por a logradouro que esse nome que pode até soar poético. Menos pessoas ainda imaginam que o local foi cenário de uma tragédia e tem fama de mal assombrado.
+        Para entender esse caso é preciso voltar no tempo, conhecer um dos episódios mais sangrentos da história da cidade. Em meados do século XIX, o Recife enfrentou uma revolta violenta de uma tropa insubordinada que ficou conhecida como “Setembrizada”
+        E esse nome vem de relatos que começaram a circular tempos depois da Setembrizada: dizia-se que quem passasse altas horas da noite perto da praça ouvia sempre choro de menino. Certamente tentou-se dar explicações “científicas” para o fato, de brincadeiras de estudantes a um tipo de sapo cujo coaxar seria semelhante ao choro de uma criança.
+        Mas quem ouviu o estranho lamento nega-se a aceitar tais teorias tão pouco consistentes: o pranto fantasmagórico, por certo, não tem semelhança com sons emitidos pelos viventes. É há quem diga que mesmo nos dias de hoje, se prestarmos bem atenção, vamos escutar os soluços e choramingos daquelas pequenas vítimas de um massacre provocado pela intransigência dos adultos.
+    </string>
+    <string name="a_epoca_1">Séc XIX</string>
+
+    <!-- Assombracao 2 -->
+    <string name="a_coord_2">-7.140671,-34.879495</string>
+    <string name="a_nome_2">Aaron Santos</string>
+    <string name="a_local_2">Jaguaribe</string>
+    <string name="a_desc_2">
+        A Praça Chora Menino fica no bairro da Boa Vista, uma das áreas mais movimentadas  da capital pernambucana. Próxima ao Colégio Salesiano, à Praça do Derby e às ruas do Progresso e das Ninfas, é hoje uma simples confluência de vias, espaço atravessado às pressas  por gente desatenta, preocupada em chegar rápido ao seu destino. Poucos devem se perguntar por a logradouro que esse nome que pode até soar poético. Menos pessoas ainda imaginam que o local foi cenário de uma tragédia e tem fama de mal assombrado.
+        Para entender esse caso é preciso voltar no tempo, conhecer um dos episódios mais sangrentos da história da cidade. Em meados do século XIX, o Recife enfrentou uma revolta violenta de uma tropa insubordinada que ficou conhecida como “Setembrizada”
+        E esse nome vem de relatos que começaram a circular tempos depois da Setembrizada: dizia-se que quem passasse altas horas da noite perto da praça ouvia sempre choro de menino. Certamente tentou-se dar explicações “científicas” para o fato, de brincadeiras de estudantes a um tipo de sapo cujo coaxar seria semelhante ao choro de uma criança.
+        Mas quem ouviu o estranho lamento nega-se a aceitar tais teorias tão pouco consistentes: o pranto fantasmagórico, por certo, não tem semelhança com sons emitidos pelos viventes. É há quem diga que mesmo nos dias de hoje, se prestarmos bem atenção, vamos escutar os soluços e choramingos daquelas pequenas vítimas de um massacre provocado pela intransigência dos adultos.
+    </string>
+    <string name="a_epoca_2">Séc XI</string>
+
+
+</resources>
